@@ -45,3 +45,4 @@ def calculations(problems):
 #main(list)
 
 print(calculations(list))
+how does github work
